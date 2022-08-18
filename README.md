@@ -12,3 +12,9 @@ Calculate pricing with distressing options
 
 - Create a list of products with distressing prices
 - Call the function to and display the price
+
+## Instruction
+
+1. Create a new Console Application using Visual Studio
+2. Open Program.cs and replace that with the 'Program.cs' above
+3. Run 
