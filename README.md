@@ -1,10 +1,9 @@
 # Distressed Price
 
- Author: John Vicencio
- Date: 8/18/2022
- Description: Calculate pricing with distressing options
+## Description
+Calculate pricing with distressing options
 
- Blueprint:
+## Logic
     - Create a function that calculates pricing
         1. Price = Price either "add", "deduct", or no change based on distressing pricing
         2. Second priced and price higher than $300, add 1% each
